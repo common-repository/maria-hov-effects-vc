@@ -1,0 +1,21 @@
+.hvc_notice {
+    background: #ddd none repeat scroll 0 0;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 10px;
+}
+
+/* Maria Wrapper Icon */
+.wpb-content-layouts .wpb-layout-element-button .maria_wapper_icon {
+    background-image: url(../img/maria-item.png)!important;
+    background-size: 32px;
+}
+
+.vc_element-icon.maria_wapper_icon{
+    background-image: url(../img/maria-item.png)!important;
+    background-size: 32px;
+}
+.wpb_cq_vc_extension_wappericon.wpb_content_element > .wpb_element_wrapper {
+	background-image: url(../img/maria-item.png)!important;
+    background-size: 32px;
+}
